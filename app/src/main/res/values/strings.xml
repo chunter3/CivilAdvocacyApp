@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CivilAdvocacyApp</string>
+    <string name="about_page">About page</string>
+    <string name="change_current_location">Change current location</string>
+    <string name="civil_advocacy">Civil Advocacy</string>
+    <string name="data_provided_by">Data provided by</string>
+    <string name="google_civic_information_api"><u>Google Civic Information API</u></string>
+    <string name="_2022_christopher_hunter">© 2022, Christopher Hunter</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="website">Website:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="address">Address:</string>
+    <string name="photo_of_official">photo of official</string>
+    <string name="party_logo">party logo</string>
+    <string name="facebook_logo">Facebook logo</string>
+    <string name="twitter_logo">Twitter logo</string>
+    <string name="youtube_logo">YouTube logo</string>
+    <string name="seperator">seperator</string>
+    <string name="leftPrens">(</string>
+    <string name="rightPrens">)</string>
+    <string name="deniedText">Location permission was denied - cannot determine address</string>
+    <string name="data_cannot_be_accessed_loaded_without_an_internet_connection">Data cannot be accessed/loaded without an internet connection.</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_data_for_location">No Data For Location</string>
+</resources>
